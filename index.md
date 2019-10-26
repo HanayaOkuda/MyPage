@@ -1,10 +1,13 @@
 # Welcome to Hanaya Okuda's Pages
 
-### News
+## Research Interests
+### Friction of materials
+First-principles investigation of friction coefficients of sheet-structure minerals.
 
-Test
+### Diagenesis of rocks
+Coming Soon...
 
-Publications
+## News
+- Test page opens (2019.Oct.27)
 
-CV
-[CV](./CV.html).
+
