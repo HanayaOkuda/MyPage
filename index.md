@@ -1,4 +1,4 @@
-## Welcome to Hanay Okuda's Pages
+# Welcome to Hanaya Okuda's Pages
 
 Test
 
