@@ -7,8 +7,7 @@
 First-principles investigation of friction coefficients of sheet-structure minerals.
 
 Related Articles:
-- 
-<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JB017740" target="_blank">H. Okuda, K. Kawai, & H. Sakuma (2019) "First‐principles Investigation of Frictional Characteristics of Brucite: An Application to Its Macroscopic Frictional Characteristics" <i>Journal of Geophysical Reserach: Solid Earth</i>, <b>124</b>, in press. doi:10.1029/2019JB017740</a>
+- [H. Okuda, K. Kawai, & H. Sakuma (2019). First‐principles Investigation of Frictional Characteristics of Brucite: An Application to Its Macroscopic Frictional Characteristics. *Journal of Geophysical Reserach: Solid Earth*, **124**, in press. doi:10.1029/2019JB017740](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JB017740){target="_blank"}
 
 ### *Seismogenesis at Subduction Zones*
 Coming Soon...
