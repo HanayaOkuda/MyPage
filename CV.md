@@ -7,8 +7,7 @@ PDF version can be downloaded from here. (Sorry, not available yet.)
 
 ***
 ## *Work Experience*
-2018.Oct. - present:
-  Leading Graduate Course for Frontiers of Mathematical Sciences and Physics (FMSP) fellowship, University of Tokyo
+2018.Oct. - present: Leading Graduate Course for Frontiers of Mathematical Sciences and Physics (FMSP) fellowship, University of Tokyo
 
 2018.Oct. - 2018.Mar.: Graduate teaching assistant (Crystallography), University of Tokyo
 
@@ -20,4 +19,10 @@ PDF version can be downloaded from here. (Sorry, not available yet.)
 
 ***
 ## *Research Experiences*
+2016.Apr. - present: First-principles calculations for frictional characteristics of sheet-structure minerals using quantum mechanics simulations at University of Tokyo, Tokyo, Japan with Assoc. Prof. Dr. Kenji Kawai (Univ. of Tokyo) and Dr. Hiroshi Sakuma (NIMS)
 
+2017.Jun. - 2018.Feb.: High-pressure/high-temperature experiments using a diamond anvil cell at University of Tokyo, Tokyo, Japan with Prof. Dr. Kei Hirose (Univ. of Tokyo)
+
+2017.Sep. - present: Friction experiments of sheet-structure minerals using a biaxial shear apparatus at Hiroshima University, Hiroshima, Japan with Dr. Ikuo Katayama (Hiroshima Univ.)
+
+2019.Jul. - 2019.Sep.: Friction experiments of sedimentary rocks at Nankai Trough using a direct shear apparatus at MARUM - Universität Bremen, Bremen, Germany with Alexander Rösner, Dr. Matt J, Ikari, Dr. Andre Hüpers, Prof. Dr. Achim Kopf (MARUM).
