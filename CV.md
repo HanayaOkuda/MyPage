@@ -25,4 +25,4 @@ PDF version can be downloaded from here. (Sorry, not available yet.)
 
 2017.Sep. - present: Friction experiments of sheet-structure minerals using a biaxial shear apparatus at Hiroshima University, Hiroshima, Japan with Dr. Ikuo Katayama (Hiroshima Univ.)
 
-2019.Jul. - 2019.Sep.: Friction experiments of sedimentary rocks at Nankai Trough using a direct shear apparatus at MARUM - Universität Bremen, Bremen, Germany with Alexander Rösner, Dr. Matt J, Ikari, Dr. Andre Hüpers, Prof. Dr. Achim Kopf (MARUM).
+2019.Jul. - 2019.Sep.: Friction experiments of sedimentary rocks at Nankai Trough using a direct shear apparatus at MARUM - Universität Bremen, Bremen, Germany with Experimental Geomechanics Group led by Dr. Matt J, Ikari (MARUM)
