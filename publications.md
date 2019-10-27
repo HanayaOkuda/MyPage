@@ -8,7 +8,7 @@ First‐principles Investigation of Frictional Characteristics of Brucite: An Ap
 
 
 ***
-## *Non-peer-reviewes paper*
+## *Non-peer-reviewed paper*
 1. **Hanaya Okuda** (2019).
 A lateral-heterogeneity on atomic-scale frictional characteristics of brucite.
 *Supercomputing News*, **21(1)**, p.15-19. (in Japanese)
