@@ -1,4 +1,5 @@
 # Curriculum Vitae
+PDF version can be down loaded from here. (Sorry not avaiable yet...)
 
 ***
 ## *Education*
