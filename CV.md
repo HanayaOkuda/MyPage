@@ -7,7 +7,8 @@ PDF version can be downloaded from here. (Sorry, not available yet.)
 
 ***
 ## *Work Experience*
-2018.Oct. - present: Leading Graduate Course for Frontiers of Mathematical Sciences and Physics (FMSP) fellowship, University of Tokyo
+2018.Oct. - present:
+  Leading Graduate Course for Frontiers of Mathematical Sciences and Physics (FMSP) fellowship, University of Tokyo
 
 2018.Oct. - 2018.Mar.: Graduate teaching assistant (Crystallography), University of Tokyo
 
