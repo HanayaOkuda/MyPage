@@ -3,6 +3,8 @@ PDF version can be down loaded from here. (Sorry not avaiable yet...)
 
 ***
 ## *Education*
+2020.March: Master of Science, University of Tokyo, Tokyo, Japan (Department of Earth and Planetary Science)
+
 2018.March: Bachelor of Science, University of Tokyo, Tokyo, Japan (Department of Earth, Planetary and Environmental Science)
 
 ***
