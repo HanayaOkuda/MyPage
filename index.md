@@ -1,5 +1,5 @@
 # Welcome to Hanaya Okuda's Page!
-### I am a master course student at University of Tokyo, Japan, who is interested in rock mechanics and earthquakes.
+### I am a Ph.D. student at University of Tokyo, Japan, who is interested in rock mechanics and earthquakes.
 
 ***
 ## *News*
