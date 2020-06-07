@@ -9,10 +9,14 @@ First‐principles Investigation of Frictional Characteristics of Brucite: An Ap
 
 ***
 ## *Non-peer-reviewed paper*
+1. **Hanaya Okuda** (2020).
+Atomic-scale frictional characteristics of brucite (0001) plane.
+*Supercomputing News*, 22(3), 38-43. (in Japanese)
+
 1. **Hanaya Okuda** (2019).
 A lateral-heterogeneity on atomic-scale frictional characteristics of brucite.
-*Supercomputing News*, 21(1), 15-19. (in Japanese)
+*Supercomputing News*, 21(special issue 1), 15-19. (in Japanese)
 
 1. **Hanaya Okuda** (2018).
 Structure determination of the stacking disorder of brucite and its frictional characteristics.
-*Supercomputing News*, 20(2), 10-14. (in Japanese)
+*Supercomputing News*, 20(special issue 2), 10-14. (in Japanese)
