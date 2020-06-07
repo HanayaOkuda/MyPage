@@ -28,6 +28,14 @@ Frictional characteristics of brucite (001) plane on the real contact area.
 
 ***
 ## *Poster presentations*
+1. **Hanaya Okuda**, Matt J Ikari, Alexander Roesner, Katja Stanislowski, Andre Hüpers, Asuka Yamaguchi, & Achim J Kopf (2020).
+Spatiotemporal variation in frictional behavior within the Nankai accretionary prism.
+*JpGU-AGU Joint Meeting*, Online.
+
+1. **Hanaya Okuda**, Ikuo Katayama, Hiroshi Sakuma, & Kenji Kawai (2020).
+Weak and unstable frictional behaviors of brucite under dry and wet conditions.
+*JpGU-AGU Joint Meeting*, Online.
+
 1. **Hanaya Okuda**, Ikuo Katayama, Hiroshi Sakuma, & Kenji Kawai (2019).
 Slip- and velocity-weakening behaviors of brucite nanoparticles.
 *GeoProc2019: Earthquake and Faulting mechanics 7th International Conference on Coupled THMC Processes in Geosystems*, Utrecht, The Netherlands.
