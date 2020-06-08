@@ -1,6 +1,8 @@
 # Welcome to Hanaya Okuda's Page!
 ### I am a Ph.D. student at University of Tokyo, Japan, who is interested in rock mechanics and earthquakes.
 
+![HanayaOkuda](./figures/DSC08132_2.jpg) 
+
 ***
 ## *News*
 - 2020.07.15: \[Presentation\] Okuda, Katayama et al. will present iPoster at S-CG69, JpGU-AGU Joint meeting 2020. 
