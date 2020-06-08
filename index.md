@@ -11,4 +11,8 @@
 
 - 2020.06.01: \[Publication\] Okuda (2020) was published in Supercomputing News (non-peer-reviewed, in Japanese).
 
+- 2020.04.01: \[CV\] I started my Ph.D. life at Dept. Ocean Floor Geoscience, Atmosphere and Ocean Research Institute (AORI), University of Tokyo, Japan.
+
+- 2020.03.31: \[CV\] I earned Master of Science degree and graduated from Dept. Earth and Planetary Science, School of Science, University of Tokyo, Japan.
+
 - 2019.09.06: \[Publication\] Okuda et al. (2019) was published in JGR: Solid Earth.
