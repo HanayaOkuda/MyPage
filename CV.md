@@ -1,5 +1,5 @@
 # Curriculum Vitae
-PDF version can be down loaded from here. (Sorry not avaiable yet...)
+PDF version can be downloaded from here. (Sorry not avaiable yet...)
 
 ***
 ## *Education*
@@ -10,7 +10,7 @@ PDF version can be down loaded from here. (Sorry not avaiable yet...)
 2014.04 - 2018.03: B.Sc., University of Tokyo, Tokyo, Japan (Department of Earth and Planetary Environmental Science, School of Science)
 
 ***
-## *Work Experience*
+## *Employment/Fellowship*
 2020.04 - present: DC1 research fellowship for young scientists, Japan Society for the Promotion of Science (JSPS)
 
 2018.10 - present: Leading Graduate Course for Frontiers of Mathematical Sciences and Physics (FMSP) fellowship, University of Tokyo
