@@ -1,4 +1,4 @@
-# Publication Lists
+# Publication List
 ***
 ## *Peer-reviewed paper*
 1. **Hanaya Okuda**, Kenji Kawai, & Hiroshi Sakuma (2019).
