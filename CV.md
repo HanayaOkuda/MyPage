@@ -27,10 +27,11 @@ PDF version will be available in the near future.
 
 ***
 ## *Research Experiences*
-2019.07 - 2019.09: Friction experiments of sedimentary rocks at Nankai Trough using a direct shear apparatus at MARUM - Center for Marine Environmental Sciences, Universität Bremen, Bremen, Germany
+**Friction experiments**
+Double direct shear at Hiroshima Univ., JP / Single direct shear at MARUM, Bremen Univ., DE
 
-2017.09 - 2020.03: Friction experiments of brucite using a biaxial shear apparatus at Hiroshima University, Hiroshima, Japan
+**Microstructure analyses**
+Scanning electron microscopy / Polarized microscopy
 
-2017.06 - 2018.02: High-pressure/high-temperature experiments for simulating Earth's core conditions using a diamond anvil cell at University of Tokyo, Tokyo, Japan
-
-2016.04 - 2020.03: First-principles calculations for frictional characteristics of brucite and gibbsite using quantum mechanics simulations at University of Tokyo, Tokyo, Japan
+**Computations**
+First-prnciples calculation with Quantum ESPRESSO
