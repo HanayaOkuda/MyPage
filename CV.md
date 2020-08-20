@@ -28,10 +28,13 @@ PDF version will be available in the near future.
 ***
 ## *Research Experiences*
 **Friction experiments**
+
 Double direct shear at Hiroshima Univ., JP / Single direct shear at MARUM, Bremen Univ., DE
 
 **Microstructure analyses**
+
 Scanning electron microscopy / Polarized microscopy
 
 **Computations**
+
 First-prnciples calculation with Quantum ESPRESSO
