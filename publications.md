@@ -23,6 +23,6 @@ Structure determination of the stacking disorder of brucite and its frictional c
 
 ***
 ## *Submitted paper*
-1. **Hanaya Okuda**, Ikuo Katayama, Hiroshi Sakuma, & Kenji Kawai (2020).
+1. **Hanaya Okuda**, Ikuo Katayama, Hiroshi Sakuma, & Kenji Kawai.
 Effect of normal stress on the friction of brucite: Application to slow earthquake in the mantle wedge.
 *Solid Earth*.
