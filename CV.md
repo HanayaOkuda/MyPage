@@ -31,10 +31,10 @@ PDF version will be available in the near future.
 
 Double direct shear at Hiroshima Univ., JP / Single direct shear at MARUM, Bremen Univ., DE
 
-**Microstructure analyses**
+**Analytical methods**
 
-Scanning electron microscopy / Polarized microscopy
+Scanning electron microscopy / Polarized microscopy / X-ray crystallography / Electron probe microanalysis 
 
 **Computations**
 
-First-prnciples calculation with Quantum ESPRESSO
+Python / MATLAB / First-prnciples calculation with Quantum ESPRESSO
