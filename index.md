@@ -2,7 +2,7 @@
 ### I am a Ph.D. student at University of Tokyo, Japan, who is interested in rock mechanics and earthquakes.
 
 ![HanayaOkuda](./figures/DSC08132_2.jpg) 
-*On the oceanic crust... (March 2020 at Mugi mélange)*
+*On the oceanic crust... (at Mugi mélange, March 2020)*
 
 ***
 ## *News*
