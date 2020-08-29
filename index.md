@@ -2,10 +2,11 @@
 ### I am a Ph.D. student at University of Tokyo, Japan, who is interested in rock mechanics and earthquakes.
 
 ![HanayaOkuda](./figures/DSC08132_2.jpg) 
+*On the oceanic crust...*
 
 ***
 ## *News*
-- 2020.08.26: \[Publication\] Okuda, Katayama, Sakuma, Kawai (under review) is available in Solid Earth preprint.
+- 2020.08.26: \[[Publication]()\] Okuda, Katayama, Sakuma, Kawai (under review) is available in Solid Earth preprint.
 
 - 2020.07.15: \[Presentation\] Okuda, Katayama et al. will present iPoster at S-CG69, JpGU-AGU Joint meeting 2020. 
 
