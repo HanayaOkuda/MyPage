@@ -1,9 +1,9 @@
 # Research Interests
 ***
-## *Sediment diagenesis and its effect on physical properties*
+## *Relation between sediment diagenesis and physical properties*
 
 ***
-## *Friction experiment for understanding subdcution zone earthquakes*
+## *Frictional properties of subduction zone materials*
 Friction of rock is a fundamental process for an earthquake. Knowing how a rock behaves under the in-situ temperature-pressure condition is critically important to understand the seismic activities. I focus on a convergent margin like SW Japan and investigate frictional properties of rocks and minerals (e.g., sediments, serpentinite...) which may control seismic activities there by friction experiments and microstructural analyses.
 
 See also:
