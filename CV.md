@@ -52,9 +52,9 @@ Uchida research funding, AORI (2020). *Hydrothermal friction experiment of basal
 
 Initiative on Promotion of Supercomputing for Young or Women Researchers, Univ. Tokyo (2019). *Effect of vacant site in gibbsite on its friction*
 
-Initiative on Promotion of Supercomputing for Young or Women Researchers, Univ. Tokyo (2019). *First-principles investigation on frictional characteristics of gibbsite (001) plane* (EX19302)
+Exploratory theme, Joint Usage/Research Center for Interdisciplinary Large-scale Information Infrastructures (2019). *Effect of vacant site in gibbsite on its friction* (EX19302)
 
-Exploratory theme, Joint Usage/Research Center for Interdisciplinary Large-scale Information Infrastructures (2019). *First-principles investigation on frictional characteristics of gibbsite (001) plane*
+Initiative on Promotion of Supercomputing for Young or Women Researchers, Univ. Tokyo (2018). *First-principles investigation on frictional characteristics of gibbsite (001) plane*
 
 Initiative on Promotion of Supercomputing for Young or Women Researchers, Univ. Tokyo (2018). *Lateral heterogeneity of nanoscale friction of brucite*
 
