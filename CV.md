@@ -28,17 +28,16 @@ PDF version will be available in the near future.
 ***
 ## *Research Experiences*
 **Friction experiments**
-
 Double direct shear at Hiroshima Univ., JP / Single direct shear at MARUM, Bremen Univ., DE
 
 **Analytical methods**
-
 Scanning electron microscopy / Polarized microscopy / X-ray crystallography / Electron probe microanalysis 
 
 **Fields**
-
 Accretionary complex at Mugi mélange, Tokushima, JP
 
 **Computations**
+Python / MATLAB / First-prnciples calculation / Parallel computing
 
-Python / MATLAB / First-prnciples calculation with Quantum ESPRESSO / Parallel computing on Reedbush-U system, Univ. Tokyo
+**Research stay**
+Hiroshima Univ., JP (many times) / MARUM, Bremen Univ., DE (Jul-Sep 2019, funded by FMSP)
