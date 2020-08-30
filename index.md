@@ -6,7 +6,7 @@
 
 ***
 ## *News*
-- 2020.08.26: \[<a href="https://hanayaokuda.github.io/MyPage/publications">Publication</a>\] Okuda, Katayama, Sakuma, Kawai (under review) is available in Solid Earth preprint.
+- 2020.08.26: \[<a href="https://hanayaokuda.github.io/MyPage/publications">Publication</a>\] Okuda, Katayama, Sakuma, Kawai (under review) is available in Solid Earth Discussion as a preprint.
 
 - 2020.07.15: \[<a href="https://hanayaokuda.github.io/MyPage/presentations">Presentation</a>\] Okuda, Katayama et al. will present iPoster at S-CG69, JpGU-AGU Joint meeting 2020. 
 
