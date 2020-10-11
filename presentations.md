@@ -1,6 +1,10 @@
 # Presentations
 ***
 ## *Oral presentations*
+1. **Hanaya Okuda**, Matt J Ikari, Alexander Roesner, Katja Stanislowski, Andre Hüpers, Asuka Yamaguchi, & Achim J Kopf (2020).
+Spatiotemporal variation in frictional behavior within the Nankai accretionary prism.
+*Geological Society of Japan, Annual meeting of Structural Geology group*, Online.
+
 1. **Hanaya Okuda** (2019).
 First-principles study on frictional characteristics of gibbsite.
 *FY2018 Results Presentation Session for Recommended Young Researchers and Women Researchers, 1st semester*, Tokyo, Japan.
