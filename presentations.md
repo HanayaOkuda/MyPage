@@ -32,6 +32,8 @@ Frictional characteristics of brucite (001) plane on the real contact area.
 
 ***
 ## *Poster presentations*
+1. **Hanaya Okuda**, Kenji Kawai, Hiroshi Sakuma (2020). First-principles investigation of brucite and gibbsite: An application to their macroscopic frictional characteristics. *AGU 2020 Fall meeting*, Online.
+
 1. **Hanaya Okuda**, Matt J Ikari, Alexander Roesner, Katja Stanislowski, Andre Hüpers, Asuka Yamaguchi, & Achim J Kopf (2020).
 Spatiotemporal variation in frictional behavior within the Nankai accretionary prism.
 *JpGU-AGU Joint Meeting*, Online.
