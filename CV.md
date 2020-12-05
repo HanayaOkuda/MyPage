@@ -28,7 +28,7 @@ PDF version will be available in the near future.
 ***
 ## *Research Experiences*
 **Friction experiments:**
-Double direct shear at Hiroshima Univ., JP / Single direct shear at MARUM, Bremen Univ., DE
+Double direct shear at Hiroshima Univ., JP / Single direct shear at MARUM, Bremen Univ., DE / Pressurized High-Velocity apparatus at KCC, JAMSTEC, JP
 
 **Analytical methods:**
 Scanning electron microscopy / Polarized microscopy / X-ray crystallography / Electron probe microanalysis 
