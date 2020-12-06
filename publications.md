@@ -28,6 +28,6 @@ Structure determination of the stacking disorder of brucite and its frictional c
 
 ***
 ## *Submitted paper*
-1. Trishit Ruj, Goro Komatsu, Kenji Kawai, Hanaya Okuda, Zhiyong Xiao, & Deepak Dhingra.
+1. Trishit Ruj, Goro Komatsu, Kenji Kawai, **Hanaya Okuda**, Zhiyong Xiao, & Deepak Dhingra.
 Recent boulder falls within the Finsen crater on the lunar far side: An assessment of the possible triggering rationale.
 *Submitted to Icarus*
