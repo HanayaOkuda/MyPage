@@ -1,9 +1,13 @@
 # Presentations
 ***
 ## *Oral presentations*
-1. **Hanaya Okuda**, Matt J Ikari, Alexander Roesner, Katja Stanislowski, Andre Hüpers, Asuka Yamaguchi, & Achim J Kopf (2020).
+1. **Hanaya Okuda**, Matt J. Ikari, Alexander Roesner, Katja Stanislowski, Andre Hüpers, Asuka Yamaguchi, & Achim J. Kopf (2020).
 Spatiotemporal variation in frictional behavior within the Nankai accretionary prism.
 *Geological Society of Japan, Annual meeting of Structural Geology group*, Online.
+
+1. **Hanaya Okuda**, Matt J. Ikari, Alexander Roesner, Katja Stanislowski, Andre Hüpers, Asuka Yamaguchi, & Achim J. Kopf (2020).
+Spatiotemporal variation in frictional behavior within the Nankai accretionary prism.
+*JpGU-AGU Joint Meeting*, Online.
 
 1. **Hanaya Okuda** (2019).
 First-principles study on frictional characteristics of gibbsite.
@@ -33,10 +37,6 @@ Frictional characteristics of brucite (001) plane on the real contact area.
 ***
 ## *Poster presentations*
 1. **Hanaya Okuda**, Kenji Kawai, Hiroshi Sakuma (2020). First-principles investigation of brucite and gibbsite: An application to their macroscopic frictional characteristics. *AGU 2020 Fall meeting*, Online.
-
-1. **Hanaya Okuda**, Matt J Ikari, Alexander Roesner, Katja Stanislowski, Andre Hüpers, Asuka Yamaguchi, & Achim J Kopf (2020).
-Spatiotemporal variation in frictional behavior within the Nankai accretionary prism.
-*JpGU-AGU Joint Meeting*, Online.
 
 1. **Hanaya Okuda**, Ikuo Katayama, Hiroshi Sakuma, & Kenji Kawai (2020).
 Weak and unstable frictional behaviors of brucite under dry and wet conditions.
