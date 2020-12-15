@@ -1,6 +1,4 @@
 # Curriculum Vitae
-PDF version will be available in the near future.
-
 ***
 ## *Education*
 2020.04 - present: Ph.D. student, University of Tokyo, Tokyo, Japan (Department of Ocean Floor Geoscience, Atmosphere and Ocean Research Institute)
@@ -37,7 +35,7 @@ Scanning electron microscopy / Polarized microscopy / X-ray crystallography / El
 Accretionary complex at Mugi mélange, Tokushima, JP
 
 **Computations:**
-Python / MATLAB / First-prnciples calculation / Parallel computing
+Python / MATLAB / First-principles calculation / Parallel computing
 
 **Research stays:**
 Hiroshima Univ., JP (many times) / MARUM, Bremen Univ., DE (Jul-Sep 2019, funded by FMSP) / USGS, USA (Sep-Oct 2019, funded by FMSP)
