@@ -42,6 +42,8 @@ Hiroshima Univ., JP (many times) / MARUM, Bremen Univ., DE (Jul-Sep 2019, funded
 
 ***
 ## *Grants*
+2021.05 - 2021.12: JSPS Overseas challenge program for young researchers "Hydrothermal friction experiment of basalt for the understanding of megathrust earthquake" (From 1 million to 1.4 million JPY per dispatch)
+
 2020.04 - 2023.03: JSPS Grant-in-Aid for JSPS fellows *Theoretical-experimental studies on frictional characteristics of serpentinite* (3,100,000 JPY for 3 years, JP20J20413)
 
 2019.07 - 2019.10: FMSP travel grant for GeoProc2019 (Utrecht, NL), research stay in MARUM (Bremen, DE), and research stay in USGS (CA, USA)
