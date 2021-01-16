@@ -26,10 +26,20 @@
 ***
 ## *Research Experiences*
 **Friction experiments:**
-Double direct shear at Hiroshima Univ., JP / Single direct shear at MARUM, Bremen Univ., DE / Pressurized High-Velocity apparatus at KCC, JAMSTEC, JP
+Double direct shear at Hiroshima Univ., JP
+
+Single direct shear at MARUM, Bremen Univ., DE
+
+Pressurized High-Velocity apparatus at KCC, JAMSTEC, JP
 
 **Analytical methods:**
-Scanning electron microscopy / Polarized microscopy / X-ray crystallography / Electron probe microanalysis 
+Scanning electron microscopy
+
+Polarized microscopy
+
+X-ray crystallography
+
+Electron probe microanalysis 
 
 **Fields:**
 Accretionary complex at Mugi mélange, Tokushima, JP
@@ -38,7 +48,13 @@ Accretionary complex at Mugi mélange, Tokushima, JP
 Python / MATLAB / First-principles calculation / Parallel computing
 
 **Research stays:**
-Hiroshima Univ., JP (many times) / MARUM, Bremen Univ., DE (Jul-Sep 2019, funded by FMSP) / USGS, USA (Sep-Oct 2019, funded by FMSP)
+Kochi Institute for Core Sample Research, JAMSTEC, JP (Nov - Dec 2020, Feb - Mar 2021)
+
+U.S. Geological Survey, USA (Sep - Oct 2019, funded by FMSP)
+
+MARUM, Bremen Univ., DE (Jul - Sep 2019, funded by FMSP)
+
+Hiroshima Univ., JP (many times)
 
 ***
 ## *Grants*
@@ -48,22 +64,10 @@ Hiroshima Univ., JP (many times) / MARUM, Bremen Univ., DE (Jul-Sep 2019, funded
 
 2019.07 - 2019.10: FMSP travel grant for GeoProc2019 (Utrecht, NL), research stay in MARUM (Bremen, DE), and research stay in USGS (CA, USA)
 
-2019.04 - 2020.03: Initiative on Promotion of Supercomputing for Young or Women Researchers, Univ. Tokyo. *Effect of vacant site in gibbsite on its friction*
+2016.10 - 2020.03: Initiative on Promotion of Supercomputing for Young or Women Researchers, Univ. Tokyo. *Frictional characteristics of brucite on (001) plane / Effect of stacking disorder on brucite friction / Lateral heterogeneity of nanoscale friction of brucite / First-principles investigation on frictional characteristics of gibbsite (001) plane / Effect of vacant site in gibbsite on its friction*
 
-2019.04 - 2020.03: Exploratory theme, Joint Usage/Research Center for Interdisciplinary Large-scale Information Infrastructures. *Effect of vacant site in gibbsite on its friction* (EX19302)
-
-2018.10 - 2019.03: Initiative on Promotion of Supercomputing for Young or Women Researchers, Univ. Tokyo. *First-principles investigation on frictional characteristics of gibbsite (001) plane*
-
-2018.04 - 2018.10: Initiative on Promotion of Supercomputing for Young or Women Researchers, Univ. Tokyo. *Lateral heterogeneity of nanoscale friction of brucite*
-
-2018.04 - 2019.03: Exploratory theme, Joint Usage/Research Center for Interdisciplinary Large-scale Information Infrastructures. *Lateral heterogeneity of nanoscale friction of brucite* (EX18303)
+2016.10 - 2020.03: Exploratory theme, Joint Usage/Research Center for Interdisciplinary Large-scale Information Infrastructures. *Frictional characteristics of brucite on (001) plane / Lateral heterogeneity of nanoscale friction of brucite / Effect of vacant site in gibbsite on its friction* (EX1633, EX17303, EX18303, EX19302)
 
 2017.10 - 2018.03: Nanotechnology Platform Japan Program, MEXT. *Observation of the contacts of sheared sheet-structure mineral* (A-17-NM-0201)
 
-2017.10 - 2018.03: Initiative on Promotion of Supercomputing for Young or Women Researchers, Univ. Tokyo. *Effect of stacking disorder on brucite friction*
-
-2016.10 - 2017.09: Initiative on Promotion of Supercomputing for Young or Women Researchers, Univ. Tokyo. *Frictional characteristics of brucite on (001) plane*
-
 2016.10 - 2017.03: TSUBAME Encouragement Program for Younger Users, Tokyo Int. Tech. *Frictional characteristics of brucite on (001) plane*
-
-2016.10 - 2018.03: Exploratory theme, Joint Usage/Research Center for Interdisciplinary Large-scale Information Infrastructures. *Frictional characteristics of brucite on (001) plane* (EX1633, EX17303)
