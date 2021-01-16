@@ -70,10 +70,10 @@ Hiroshima Univ., JP (many times)
 
 2019.07 - 2019.10: FMSP travel grant for GeoProc2019 (Utrecht, NL), research stay in MARUM (Bremen, DE), and research stay in USGS (CA, USA)
 
-2016.10 - 2020.03: Initiative on Promotion of Supercomputing for Young or Women Researchers, Univ. Tokyo. *Frictional characteristics of brucite on (001) plane / Effect of stacking disorder on brucite friction / Lateral heterogeneity of nanoscale friction of brucite / First-principles investigation on frictional characteristics of gibbsite (001) plane / Effect of vacant site in gibbsite on its friction*
+2016.10 - 2020.03: Initiative on Promotion of Supercomputing for Young or Women Researchers, Univ. Tokyo, JP. *Frictional characteristics of brucite on (001) plane / Effect of stacking disorder on brucite friction / Lateral heterogeneity of nanoscale friction of brucite / First-principles investigation on frictional characteristics of gibbsite (001) plane / Effect of vacant site in gibbsite on its friction* 
 
-2016.10 - 2020.03: Exploratory theme, Joint Usage/Research Center for Interdisciplinary Large-scale Information Infrastructures. *Frictional characteristics of brucite on (001) plane / Lateral heterogeneity of nanoscale friction of brucite / Effect of vacant site in gibbsite on its friction* (EX1633, EX17303, EX18303, EX19302)
+2016.10 - 2020.03: Exploratory theme, Joint Usage/Research Center for Interdisciplinary Large-scale Information Infrastructures, JP. *Frictional characteristics of brucite on (001) plane / Lateral heterogeneity of nanoscale friction of brucite / Effect of vacant site in gibbsite on its friction* (EX1633, EX17303, EX18303, EX19302)
 
-2017.10 - 2018.03: Nanotechnology Platform Japan Program, MEXT. *Observation of the contacts of sheared sheet-structure mineral* (A-17-NM-0201)
+2017.10 - 2018.03: Nanotechnology Platform Japan Program, MEXT, JP. *Observation of the contacts of sheared sheet-structure mineral* (A-17-NM-0201)
 
-2016.10 - 2017.03: TSUBAME Encouragement Program for Younger Users, Tokyo Int. Tech. *Frictional characteristics of brucite on (001) plane*
+2016.10 - 2017.03: TSUBAME Encouragement Program for Younger Users, Tokyo Int. Tech., JP. *Frictional characteristics of brucite on (001) plane*
