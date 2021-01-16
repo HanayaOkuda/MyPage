@@ -26,6 +26,7 @@
 ***
 ## *Research Experiences*
 **Friction experiments:**
+
 Double direct shear at Hiroshima Univ., JP
 
 Single direct shear at MARUM, Bremen Univ., DE
@@ -33,6 +34,7 @@ Single direct shear at MARUM, Bremen Univ., DE
 Pressurized High-Velocity apparatus at KCC, JAMSTEC, JP
 
 **Analytical methods:**
+
 Scanning electron microscopy
 
 Polarized microscopy
@@ -42,12 +44,15 @@ X-ray crystallography
 Electron probe microanalysis 
 
 **Fields:**
+
 Accretionary complex at Mugi mélange, Tokushima, JP
 
 **Computations:**
+
 Python / MATLAB / First-principles calculation / Parallel computing
 
 **Research stays:**
+
 Kochi Institute for Core Sample Research, JAMSTEC, JP (Nov - Dec 2020, Feb - Mar 2021)
 
 U.S. Geological Survey, USA (Sep - Oct 2019, funded by FMSP)
@@ -58,6 +63,7 @@ Hiroshima Univ., JP (many times)
 
 ***
 ## *Grants*
+
 2021.05 - 2021.12: JSPS Overseas challenge program for young researchers *Hydrothermal friction experiment of basalt for the understanding of megathrust earthquake* (Travel grant to visit Utrecht University, NL, from 1 million to 1.4 million JPY per dispatch)
 
 2020.04 - 2023.03: JSPS Grant-in-Aid for JSPS fellows *Theoretical-experimental studies on frictional characteristics of serpentinite* (3,100,000 JPY for 3 years, JP20J20413)
