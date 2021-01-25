@@ -7,7 +7,7 @@
 Friction of rock is a fundamental process for an earthquake. Knowing how a rock behaves under the in-situ temperature-pressure condition is critically important to understand the seismic activities. I focus on a convergent margin like SW Japan and investigate frictional properties of rocks and minerals (e.g., sediments, serpentinite...) which may control seismic activities there by friction experiments and microstructural analyses.
 
 See also:
-- **Hanaya Okuda**, Ikuo Katayama, Hiroshi Sakuma, & Kenji Kawai (accepted). Effect of normal stress on the frictional behavior of brucite: Application to slow earthquakes at the subduction plate interface in the mantle wedge. *Solid Earth*. <a href="https://se.copernicus.org/preprints/se-2020-144/" target="_blank">doi:10.5194/se-2020-144</a>.
+- **Hanaya Okuda**, Ikuo Katayama, Hiroshi Sakuma, & Kenji Kawai (2021). Effect of normal stress on the frictional behavior of brucite: application to slow earthquakes at the subduction plate interface in the mantle wedge. *Solid Earth*. <a href="https://se.copernicus.org/articles/12/171/2021/se-12-171-2021.html/" target="_blank">doi:10.5194/se-12-171-2021</a>.
 
 ***
 ## *Physics behind mineral-dependent friction*
