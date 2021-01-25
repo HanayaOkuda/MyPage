@@ -6,6 +6,8 @@
 
 ***
 ## *News*
+- 2021.01.25: \[<a href="https://hanayaokuda.github.io/MyPage/publications">Publication</a>\] Okuda, Katayama, Sakuma, Kawai (2021) was published in Solid Earth!
+
 - 2020.12.04: \[<a href="https://hanayaokuda.github.io/MyPage/publications">Publication</a>\] A paper on brucite friction experiments (Okuda, Katayama, Sakuma, Kawai) was accepted for publication on Solid Earth!
 
 - 2020.07.15: \[<a href="https://hanayaokuda.github.io/MyPage/presentations">Presentation</a>\] Okuda, Kawai, Sakuma will present iPoseter at MR010, AGU Fall meeting 2020.
