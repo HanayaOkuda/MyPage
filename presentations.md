@@ -1,6 +1,18 @@
 # Presentations
 ***
 ## *Oral presentations*
+1. **Hanaya Okuda**, Takehiro Hirose, & Asuka Yamaguchi (2021).
+Friction experiments on volcanic glass-clay mixtures toward understanding the slip behavior of sediments near trench-arc system.
+*JpGU Annual Meeting*, Online.
+
+1. Riho Fujioka, Ikuo Katayama, Takehiro Hirose, Manami Kitamura, & **Hanaya Okuda** (2021).
+Frictional coefficient and its velocity dependence of cuttings retrieved from the Nankai accretionary prism at IODP Site C0002.
+*JpGU Annual Meeting*, Online.
+
+1. Asuka Yamaguchi, Ippei Yamamoto, Yuichi Okuma, Kodai Kato, Yuji Kato, Hiroaki Koge, **Hanaya Okuda**, Takashi Hakomori, & Minoru Ikehara (2021).
+Sedimentation process at the South Shetland Trench in the Antarctic Ocean.
+*JpGU Annual Meeting*, Online.
+
 1. **Hanaya Okuda**, Matt J. Ikari, Alexander Roesner, Katja Stanislowski, Andre Hüpers, Asuka Yamaguchi, & Achim J. Kopf (2020).
 Spatiotemporal variation in frictional behavior within the Nankai accretionary prism.
 *Geological Society of Japan, Annual meeting of Structural Geology group*, Online.
