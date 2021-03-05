@@ -1,6 +1,10 @@
 # Presentations
 ***
 ## *Oral presentations*
+1. Asuka Yamaguchi, Ippei Yamamoto, Yuichi Okuma, Kodai Kato, Yuji Kato, Kaoru Kubota, Kenichiro Tani, Hiroaki Koge, Jinyu Zhou, **Hanaya Okuda**, Takashi Hakomori, Minoru Ikehara (2020).
+Characteristics of sediments cored from the South Shetland Trench.
+*The 11th Symposium on Polar Science*, Online.
+
 1. **Hanaya Okuda**, Matt J. Ikari, Alexander Roesner, Katja Stanislowski, Andre Hüpers, Asuka Yamaguchi, & Achim J. Kopf (2020).
 Spatiotemporal variation in frictional behavior within the Nankai accretionary prism.
 *Geological Society of Japan, Annual meeting of Structural Geology group*, Online.
