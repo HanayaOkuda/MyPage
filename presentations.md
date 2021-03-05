@@ -36,7 +36,9 @@ Frictional characteristics of brucite (001) plane on the real contact area.
 
 ***
 ## *Poster presentations*
-1. **Hanaya Okuda**, Kenji Kawai, Hiroshi Sakuma (2020). First-principles investigation of brucite and gibbsite: An application to their macroscopic frictional characteristics. *AGU 2020 Fall meeting*, Online.
+1. Trishit Ruj, Goro Komatsu, Kenji Kawai, **Hanaya Okuda**, Zhiyong Xiao, & Deepak Dhingra (2021). Boulder tracks within Finsen Crater: evaluation of triggers. *52nd Lunar and Planetary Science Conference 2021*, Online.
+
+1. **Hanaya Okuda**, Kenji Kawai, & Hiroshi Sakuma (2020). First-principles investigation of brucite and gibbsite: An application to their macroscopic frictional characteristics. *AGU 2020 Fall meeting*, Online.
 
 1. **Hanaya Okuda**, Ikuo Katayama, Hiroshi Sakuma, & Kenji Kawai (2020).
 Weak and unstable frictional behaviors of brucite under dry and wet conditions.
