@@ -1,11 +1,11 @@
 # 学会発表
 ***
 ## *口頭発表*
-1. **Hanaya Okuda**, Takehiro Hirose, Asuka Yamaguchi (2021).
+1. **Hanaya Okuda**, Takehiro Hirose, & Asuka Yamaguchi (2021).
 Friction experiments on volcanic glass-clay mixtures toward understanding the slip behavior of sediments near trench-arc system.
 *JpGU Annual Meeting*, Online.
 
-1. Asuka Yamaguchi, Ippei Yamamoto, Yuichi Okuma, Kodai Kato, Yuji Kato, Kaoru Kubota, Kenichiro Tani, Hiroaki Koge, Jinyu Zhou, **Hanaya Okuda**, Takashi Hakomori, Minoru Ikehara (2020).
+1. Asuka Yamaguchi, Ippei Yamamoto, Yuichi Okuma, Kodai Kato, Yuji Kato, Kaoru Kubota, Kenichiro Tani, Hiroaki Koge, Jinyu Zhou, **Hanaya Okuda**, Takashi Hakomori, & Minoru Ikehara (2020).
 Characteristics of sediments cored from the South Shetland Trench.
 *The 11th Symposium on Polar Science*, Online.
 
