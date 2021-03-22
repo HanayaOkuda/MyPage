@@ -2,7 +2,7 @@
 ### 岩石力学と地震を研究している東京大学の博士課程学生です。
 
 ![HanayaOkuda](./figures/DSC08132_2.jpg) 
-*牟岐メランジュにて... (2020年3月)*
+牟岐メランジュにて... (2020年3月)
 
 ***
 ## *News*
@@ -20,4 +20,4 @@
 
 - 2020.03.31: \[<a href="https://hanayaokuda.github.io/MyPage/CV.html">CV</a>\] 東京大学 理学系研究科 地球惑星科学専攻 の修士課程を修了し、修士(理学)になりました。また理学系研究科研究奨励賞を受賞しました。
 
-- 2019.09.06: \[<a href="https://hanayaokuda.github.io/MyPage/publications">Publication</a>\] Journal of Geophysical Research: Solid Earth 誌に論文　(Okuda, Kawai, Sakuma, 2019) が掲載されました。
+- 2019.09.06: \[<a href="https://hanayaokuda.github.io/MyPage/publications">Publication</a>\] Journal of Geophysical Research: Solid Earth 誌に論文 (Okuda, Kawai, Sakuma, 2019) が掲載されました。
