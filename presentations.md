@@ -5,6 +5,14 @@
 Friction experiments on volcanic glass-clay mixtures toward understanding the slip behavior of sediments near trench-arc system.
 *JpGU Annual Meeting*, Online.
 
+1. Riho Fujioka, Ikuo Katayama, ManamiKitamura, **Hanaya Okuda**, & Takehiro Hirose (2021).
+Frictional coefficient and its velocity dependence of cuttings retrieved from the Nankai accretionary prism at IODP Site C0002.
+*JpGU Annual Meeting*, Online.
+
+1. Trishit Ruj, Goro Komatsu, Kenji Kawai, **Hanaya Okuda**, Zhiyong Xiao, & Deepak Dhingra (2021).
+Recent boulder falls within the Finsen crater, an assessment of ongoing geological activities.
+*JpGU Annual Meeting*, Online.
+
 1. Asuka Yamaguchi, Ippei Yamamoto, Yuichi Okuma, Kodai Kato, Yuji Kato, Kaoru Kubota, Kenichiro Tani, Hiroaki Koge, Jinyu Zhou, **Hanaya Okuda**, Takashi Hakomori, & Minoru Ikehara (2020).
 Characteristics of sediments cored from the South Shetland Trench.
 *The 11th Symposium on Polar Science*, Online.
