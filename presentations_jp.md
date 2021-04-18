@@ -48,7 +48,7 @@ Frictional characteristics of brucite (001) plane on the real contact area.
 
 ***
 ## *ポスター発表*
-1. Riho Fujioka, Ikuo Katayama, ManamiKitamura, **Hanaya Okuda**, & Takehiro Hirose (2021).
+1. Riho Fujioka, Ikuo Katayama, Manami Kitamura, **Hanaya Okuda**, & Takehiro Hirose (2021).
 Frictional coefficient and its velocity dependence of cuttings retrieved from the Nankai accretionary prism at IODP Site C0002.
 *JpGU Annual Meeting*, Online.
 
