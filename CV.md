@@ -27,9 +27,9 @@
 ## *Research Experiences*
 **Friction experiments:**
 
-Double direct shear at Hiroshima Univ., JP
+High temperature biaxial deformation apparatus at Hiroshima Univ., JP
 
-Single direct shear at MARUM, Bremen Univ., DE
+Single direct shear device at MARUM, Bremen Univ., DE
 
 Pressurized High-Velocity rotary shear apparatus at KCC, JAMSTEC, JP
 
