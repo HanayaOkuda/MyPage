@@ -31,7 +31,9 @@ Double direct shear at Hiroshima Univ., JP
 
 Single direct shear at MARUM, Bremen Univ., DE
 
-Pressurized High-Velocity apparatus at KCC, JAMSTEC, JP
+Pressurized High-Velocity rotary shear apparatus at KCC, JAMSTEC, JP
+
+High temperature high pressure gas medium triaxial deformation apparatus at GSJ, AIST, JP
 
 **Analytical methods:**
 
