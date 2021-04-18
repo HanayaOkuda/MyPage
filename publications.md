@@ -26,8 +26,3 @@ A lateral-heterogeneity on atomic-scale frictional characteristics of brucite.
 Structure determination of the stacking disorder of brucite and its frictional characteristics.
 *Supercomputing News*, 20(special issue 2), 10-14. (in Japanese)
 
-***
-## *Submitted paper*
-1. Trishit Ruj, Goro Komatsu, Kenji Kawai, **Hanaya Okuda**, Zhiyong Xiao, & Deepak Dhingra.
-Recent boulder falls within the Finsen crater on the lunar far side: An assessment of the possible triggering rationale.
-*Submitted to Icarus*
