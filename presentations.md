@@ -5,10 +5,6 @@
 Friction experiments on volcanic glass-clay mixtures toward understanding the slip behavior of sediments near trench-arc system.
 *JpGU Annual Meeting*, Online.
 
-1. Riho Fujioka, Ikuo Katayama, ManamiKitamura, **Hanaya Okuda**, & Takehiro Hirose (2021).
-Frictional coefficient and its velocity dependence of cuttings retrieved from the Nankai accretionary prism at IODP Site C0002.
-*JpGU Annual Meeting*, Online.
-
 1. Trishit Ruj, Goro Komatsu, Kenji Kawai, **Hanaya Okuda**, Zhiyong Xiao, & Deepak Dhingra (2021).
 Recent boulder falls within the Finsen crater, an assessment of ongoing geological activities.
 *JpGU Annual Meeting*, Online.
@@ -52,6 +48,10 @@ Frictional characteristics of brucite (001) plane on the real contact area.
 
 ***
 ## *Poster presentations*
+1. Riho Fujioka, Ikuo Katayama, ManamiKitamura, **Hanaya Okuda**, & Takehiro Hirose (2021).
+Frictional coefficient and its velocity dependence of cuttings retrieved from the Nankai accretionary prism at IODP Site C0002.
+*JpGU Annual Meeting*, Online.
+
 1. Trishit Ruj, Goro Komatsu, Kenji Kawai, **Hanaya Okuda**, Zhiyong Xiao, & Deepak Dhingra (2021). Boulder tracks within Finsen Crater: evaluation of triggers. *52nd Lunar and Planetary Science Conference 2021*, Online.
 
 1. **Hanaya Okuda**, Kenji Kawai, & Hiroshi Sakuma (2020). First-principles investigation of brucite and gibbsite: An application to their macroscopic frictional characteristics. *AGU 2020 Fall meeting*, Online.
