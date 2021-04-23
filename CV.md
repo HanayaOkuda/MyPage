@@ -9,6 +9,8 @@
 
 ***
 ## *Employment/Fellowship*
+2021.03 - present: Technical trainee, Geological Survey of Japan, National Institute of Advanced Industrial Science and Technology
+
 2020.04 - present: DC1 research fellowship for young scientists, Japan Society for the Promotion of Science (JSPS)
 
 2018.10 - present: Leading Graduate Course for Frontiers of Mathematical Sciences and Physics (FMSP) fellowship, University of Tokyo
