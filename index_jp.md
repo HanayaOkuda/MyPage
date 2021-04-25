@@ -6,7 +6,7 @@
 
 ***
 ## *News*
-- 2021.01.25: \[<a href="https://hanayaokuda.github.io/MyPage/publications">Publication</a>\] Solid Earth 誌に論文 (Okuda, Katayama, Sakuma, Kawai, 2021) が掲載されました。
+- 2021.01.25: \[<a href="https://hanayaokuda.github.io/MyPage/publications">Publication</a>\] Solid Earth 誌に "Effect of normal stress on the frictional behavior of brucite: application to slow earthquakes at the subduction plate interface in the mantle wedge" (Okuda, Katayama, Sakuma, Kawai, 2021) が掲載されました。
 
 - 2020.12.01: \[<a href="https://hanayaokuda.github.io/MyPage/presentations">Presentation</a>\] AGU Fall meeting 2020, MR010 でポスター発表します (Okuda, Kawai, Sakuma)。
 
@@ -20,4 +20,4 @@
 
 - 2020.03.31: \[<a href="https://hanayaokuda.github.io/MyPage/CV.html">CV</a>\] 東京大学 理学系研究科 地球惑星科学専攻 の修士課程を修了し、修士(理学)になりました。また理学系研究科研究奨励賞を受賞しました。
 
-- 2019.09.06: \[<a href="https://hanayaokuda.github.io/MyPage/publications">Publication</a>\] Journal of Geophysical Research: Solid Earth 誌に論文 (Okuda, Kawai, Sakuma, 2019) が掲載されました。
+- 2019.09.06: \[<a href="https://hanayaokuda.github.io/MyPage/publications">Publication</a>\] Journal of Geophysical Research: Solid Earth 誌に "First‐principles Investigation of Frictional Characteristics of Brucite: An Application to Its Macroscopic Frictional Characteristics" (Okuda, Kawai, Sakuma, 2019) が掲載されました。
