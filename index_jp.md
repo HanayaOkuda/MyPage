@@ -6,7 +6,7 @@
 
 ***
 ## *News*
-- 2021.06.04: \[<a href="https://hanayaokuda.github.io/MyPage/presentations">Presentation</a>\] JpGU-AGU Joint meeting 2021, S-SS08 で口頭発表します (Okuda, Hirose, Yamaguchi).
+- 2021.06.04: \[<a href="https://hanayaokuda.github.io/MyPage/presentations">Presentation</a>\] JpGU-AGU Joint meeting 2021, S-SS08 で口頭発表します (Okuda, Hirose, Yamaguchi)。
 
 - 2021.01.25: \[<a href="https://hanayaokuda.github.io/MyPage/publications">Publication</a>\] Solid Earth 誌に "Effect of normal stress on the frictional behavior of brucite: application to slow earthquakes at the subduction plate interface in the mantle wedge" (Okuda, Katayama, Sakuma, Kawai, 2021) が掲載されました。
 
@@ -16,7 +16,7 @@
 
 - 2020.07.13: \[<a href="https://hanayaokuda.github.io/MyPage/presentations">Presentation</a>\] JpGU-AGU Joint meeting 2020, S-CG57 で発表します (Okuda, Ikari et al.)。
 
-- 2020.06.01: \[<a href="https://hanayaokuda.github.io/MyPage/publications">Publication</a>\] Supercomputing News に論文 (奥田, 2020) が掲載されました。
+- 2020.06.01: \[<a href="https://hanayaokuda.github.io/MyPage/publications">Publication</a>\] Supercomputing News に "bruciteの(0001)面における摩擦特性の決定" (奥田, 2020) が掲載されました。
 
 - 2020.04.01: \[<a href="https://hanayaokuda.github.io/MyPage/CV.html">CV</a>\] 東京大学 大気海洋研究所 海洋底科学部門 で博士課程をスタートしました。
 
