@@ -16,7 +16,7 @@
 
 - 2020.07.13: \[<a href="https://hanayaokuda.github.io/MyPage/presentations">Presentation</a>\] Okuda, Ikari et al. will present iPoster at S-CG57, JpGU-AGU Joint meeting 2020. 
 
-- 2020.06.01: \[<a href="https://hanayaokuda.github.io/MyPage/publications">Publication</a>\] Okuda (2020) was published in Supercomputing News (non-peer-reviewed, in Japanese).
+- 2020.06.01: \[<a href="https://hanayaokuda.github.io/MyPage/publications">Publication</a>\] Okuda (2020) "Atomic-scale frictional characteristics of brucite (0001) plane" was published in Supercomputing News (non-peer-reviewed, in Japanese).
 
 - 2020.04.01: \[<a href="https://hanayaokuda.github.io/MyPage/CV.html">CV</a>\] I started my Ph.D. life at Dept. Ocean Floor Geoscience, Atmosphere and Ocean Research Institute (AORI), University of Tokyo, Japan.
 
