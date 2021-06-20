@@ -1,9 +1,11 @@
 # Publications
 ***
-## *Peer-reviewed paper*
+## *Peer-reviewed paper (as the first author)*
+*Two papers are being reviewed.*
+
 1. **Hanaya Okuda**, Ikuo Katayama, Hiroshi Sakuma, & Kenji Kawai (2021).
 Effect of normal stress on the frictional behavior of brucite: application to slow earthquakes at the subduction plate interface in the mantle wedge.
-*Solid Earth*, 12(1), 171-186. 
+*Solid Earth*, 12(1), 171-186. OPEN ACCESS. 
 <a href="https://se.copernicus.org/articles/12/171/2021/" target="_blank">doi:10.5194/se-12-171-2021</a>
 
 1. **Hanaya Okuda**, Kenji Kawai, & Hiroshi Sakuma (2019).
@@ -11,6 +13,9 @@ First‐principles Investigation of Frictional Characteristics of Brucite: An Ap
 *Journal of Geophysical Research: Solid Earth*, 124(10), 10423-10443. 
 <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JB017740" target="_blank">doi:10.1029/2019JB017740</a>
 
+***
+## *Peer-reviewed paper (as a co-author)*
+*Two paper are being reviewd.*
 
 ***
 ## *Non-peer-reviewed paper*
