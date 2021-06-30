@@ -1,6 +1,14 @@
 # 学会発表
 ***
 ## *口頭発表*
+1. Asuka Yamaguchi, Yuichi Okuma, **Hanaya Okuda**, Ippei Yamamoto, & Rina Fukuchi (2021).
+Geological factors affecting broad spectrum of fault behavior in subduction zones.
+*Annual Meeting of the Geological Society of Japan*, Nagoya, Japan.
+
+1. Ikuo Katayama, Riho Fujioka, Manami Kitamura, **Hanaya Okuda**, & Takehiro Hirose (2021).
+Depth profile of frictional properties of cuttings collected from the Nankai Trough and implications for shallow slow-earthquakes.
+*Annual Meeting of the Geological Society of Japan*, Nagoya, Japan.
+
 1. **Hanaya Okuda**, Takehiro Hirose, & Asuka Yamaguchi (2021).
 Friction experiments on volcanic glass-clay mixtures toward understanding the slip behavior of sediments near trench-arc system.
 *JpGU Annual Meeting*, Online.
