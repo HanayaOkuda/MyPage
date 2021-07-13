@@ -1,6 +1,10 @@
 # Presentations
 ***
 ## *Oral presentations*
+1. Riho Fujioka, Ikuo Katayama, Manami Kitamura, **Hanaya Okuda**, & Takehiro Hirose (2021).
+Depth profile of frictional properties inferred from cuttings obtained at the Nankai Trough C0002 drilling site.
+*Japan Association of Mineralogical Sciences Annual Meeting*, Hiroshima, Japan.
+
 1. Asuka Yamaguchi, Yuichi Okuma, **Hanaya Okuda**, Ippei Yamamoto, & Rina Fukuchi (2021).
 Geological factors affecting broad spectrum of fault behavior in subduction zones.
 *Annual Meeting of the Geological Society of Japan*, Nagoya, Japan.
