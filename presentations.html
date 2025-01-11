@@ -6,6 +6,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <style type="text/css">
 .jumbotron { background:url(images/P9290931.JPG) center no-repeat; background-size: cover;}
+  
+          .details {
+            display: none;
+            margin-top: 10px;
+            padding: 10px;
+            background-color: #f0f0f0;
+            border: 1px solid #ccc;
+        }
+        .year {
+            cursor: pointer;
+            font-weight: bold;
+            color: #007BFF;
+        }
+  
 </style>
 
   
@@ -86,6 +100,20 @@
       From Research Vessel to Comics: Inspiring Middle-Grade Readers Through IODP Expedition 405.
       <i>EGU 2025</i>. Vienna, Austria</p>
       -->
+      
+      <div>
+      <p class="year" onclick="toggleDetails('details2024')">--2024--</p>
+        <div id="details2024" class="details">
+          
+        <p>(38) Makoto Otsubo, <b><b>Hanaya Okuda</b></b>, Ayumu Miyakawa, Takehiro Hirose (2024). 
+          Role of folds that develop near plate boundaries as inelastic deformation.
+          <i>International Joint Workshop on Slow-to-Fast Earthquakes 2024</i>. Oita, Japan</p>
+        <p>(37) 神谷 奈々, 濱田 洋平, <b><b>奥田 花也</b></b>, 中元 啓輔, 内田 泰蔵, 細野 日向子, 橋本 善孝, 久保 雄介 (Nana Kamiya, Yohei Hamada, <b><b>Hanaya Okuda</b></b>, Keisuke Nakamoto, Taizo Uchida, Hinako Hosono, Yoshitaka Hashimoto, Yusuke Kubo) (2024). 
+          日本海溝における上部プリズムの物理的・構造的特徴と形成過程 (Characteristics of physical property and structure and the formation process of the Upper Prism in the Japan Trench).
+          <i>日本地質学会 (Annual Meeting of the Geological Society of Japan)</i>. 山形 (Yamagata, Japan)</p>
+          
+        </div>
+      </div>
       
       --2024--
       <p>(38) Makoto Otsubo, <b><b>Hanaya Okuda</b></b>, Ayumu Miyakawa, Takehiro Hirose (2024). 
@@ -390,6 +418,15 @@
   </div>
 </div>
   
-
+<script>
+    function toggleDetails(id) {
+        var details = document.getElementById(id);
+        if (details.style.display === "none" || details.style.display === "") {
+            details.style.display = "block";
+        } else {
+            details.style.display = "none";
+        }
+    }
+</script>
 </body>
 </html>
